@@ -13,10 +13,10 @@
 
 Sou desenvolvedor com foco em criar soluções práticas e bem estruturadas. Gosto de explorar diferentes tecnologias, desde aplicações web até desenvolvimento mobile, sempre buscando escrever código limpo e eficiente.
 
--  Atualmente trabalhando em projetos pessoais
--  Sempre aprendendo algo novo
--  Me pergunte sobre HTML, CSS, Java, C#, SQLite ou Flutter
--  Brasil
+- 🔭 Atualmente trabalhando em projetos pessoais
+- 🌱 Sempre aprendendo algo novo
+- 💬 Me pergunte sobre HTML, CSS, Java, C#, SQLite ou Flutter
+- 📍 Brasil
 
 ---
 
@@ -37,12 +37,27 @@ Sou desenvolvedor com foco em criar soluções práticas e bem estruturadas. Gos
 
 <div align="center">
 
-![kauapcota-sketch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauapcota-sketch&show_icons=true&theme=tokyonight&hide_border=true)
+![kauapcota-sketch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauapcota-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapcota-sketch&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kauapcota-sketch&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapcota-sketch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
+---
+
+## 🤝 Como Contribuir
+
+Contribuições são sempre bem-vindas! Se quiser colaborar com algum dos meus projetos:
+
+1. **Fork** o repositório
+2. Crie uma branch com sua feature: `git checkout -b minha-feature`
+3. Commit suas alterações: `git commit -m 'feat: minha nova feature'`
+4. Push para a branch: `git push origin minha-feature`
+5. Abra um **Pull Request**
+
+> Sinta-se à vontade para abrir uma *issue* antes de começar, para alinharmos a ideia. 😊
 
 ---
 
