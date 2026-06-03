@@ -33,17 +33,18 @@ Sou desenvolvedor com foco em criar soluções práticas e bem estruturadas. Gos
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas Estatísticas
 
-<div align="center">
-
-![kauapcota-sketch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauapcota-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kauapcota-sketch&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapcota-sketch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauapcota-sketch&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauapcota-sketch&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauapcota-sketch&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kauapcota-sketch&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
 
 ---
 
